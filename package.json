@@ -9,7 +9,7 @@
     "dev": "nodemon app.js",
     "lint": "npx eslint ."
   },
-  "author": "AlDm",
+  "author": "VEBata",
   "license": "ISC",
   "keywords": [],
   "dependencies": {
